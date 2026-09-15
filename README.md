@@ -4,11 +4,11 @@
 
 I build production-oriented data platforms that turn real-world operational data into reliable, testable, observable, secure and scalable systems.
 
-My primary focus is **Data Engineering** - real-time data pipelines, distributed processing, data quality, data modeling, cloud data platforms, orchestration and production engineering.
+My primary focus is **Data Engineering**: real-time data pipelines, distributed processing, data quality, data modeling, cloud data platforms, orchestration and production engineering.
 
 ---
 
-## Flagship Project
+## Flagship Engineering Project
 
 ### Enterprise AI-Powered Real-Time EV Fleet Data Platform
 
@@ -35,60 +35,77 @@ A production-oriented end-to-end EV telemetry platform built around real vehicle
 - Container and Kubernetes validation
 - Production-oriented testing and observability controls
 
-[View the EV Fleet Data Platform](https://github.com/cvsandeep0105-netizen/enterprise-ai-real-time-ev-fleet-data-platform)
+**Repository**
+
+https://github.com/cvsandeep0105-netizen/enterprise-ai-real-time-ev-fleet-data-platform
 
 ---
 
-## Selected Work
+## Data Engineering Capability
 
-### Data Science Portfolio
+### Programming
 
-End-to-end Data Science and Machine Learning projects focused on real business problems, analytical reasoning and predictive modeling.
-
-[View Data Science Portfolio](https://github.com/cvsandeep0105-netizen/data-science-portfolio)
-
----
-
-## Technology Focus
-
-### Languages
 Python | SQL
 
-### Data Engineering
-Apache Kafka | Apache Spark | PySpark | ETL / ELT | Real-Time Data Processing | Data Quality | Data Modeling | PostgreSQL
+### Data Platforms
 
-### Cloud and Platform
+Apache Kafka | Apache Spark | PySpark | PostgreSQL | ETL / ELT | Real-Time Data Processing
+
+### Data Engineering Practices
+
+Data Quality | Data Modeling | Testing | Observability | Reliability | Scalability
+
+### Cloud and Infrastructure
+
 AWS | Docker | Kubernetes | Linux
 
-### Orchestration and Engineering
-Apache Airflow | Git | GitHub Actions | CI/CD | Testing | Observability
+### Orchestration and DevOps
 
-### AI / ML
+Apache Airflow | Git | GitHub Actions | CI/CD
+
+### ML-powered Data Systems
+
 Scikit-learn | Anomaly Detection | ML-powered Data Products
 
 ---
 
 ## Engineering Approach
 
-I focus on systems that are:
+I build systems with production engineering in mind:
 
-**Reliable | Testable | Observable | Secure | Scalable | Production-oriented**
+**Reliable | Testable | Observable | Secure | Scalable | Maintainable**
 
-The objective is not simply to make a pipeline work once, but to engineer the controls required to make it dependable in production.
+The goal is not simply to make a pipeline work once, but to engineer the data platform and operational controls required to make it dependable.
 
 ---
 
-## Current Focus
+## What I Build
 
-Building deeper expertise across:
+- Real-time streaming data platforms
+- Batch and incremental data pipelines
+- Distributed data processing systems
+- Cloud data platforms and lakehouses
+- CDC-based data architectures
+- Data warehouses and analytics platforms
+- Data quality and observability systems
+- Production-ready ETL / ELT pipelines
+- ML-enabled data products
 
-- Cloud Data Engineering
-- Lakehouse architectures
-- CDC and streaming data systems
+---
+
+## Current Engineering Focus
+
+Deepening expertise across:
+
+- AWS Data Engineering
+- Cloud lakehouse architecture
+- CDC and streaming systems
+- Apache Kafka
+- Apache Spark
 - Modern data warehouses
 - Analytics Engineering
 - Data quality and lineage
-- Production-scale distributed data processing
+- Production-scale distributed processing
 
 ---
 
@@ -98,7 +115,7 @@ Building deeper expertise across:
 
 with supporting strengths in:
 
-**Real-Time Data | Cloud | Distributed Processing | Data Platforms | ML-powered Data Products**
+**Real-Time Data | Cloud | Distributed Systems | Data Platforms | ML-powered Data Products**
 
 ---
 
