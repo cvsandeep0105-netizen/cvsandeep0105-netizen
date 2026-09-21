@@ -1,6 +1,6 @@
-﻿# Venkata Sandeep Kumar Reddy
+# Venkata Sandeep Kumar Reddy
 
-## Data Engineer | Real-Time Data Platforms
+## Data Engineer | Cloud Data Platforms | Streaming | Analytics Engineering
 
 I build production-oriented data platforms that turn real-world operational data into reliable, testable, observable, secure and scalable systems.
 
@@ -41,7 +41,7 @@ https://github.com/cvsandeep0105-netizen/enterprise-ai-real-time-ev-fleet-data-p
 
 ---
 
-## Data Engineering Capability
+## Data Engineer | Cloud Data Platforms | Streaming | Analytics Engineering
 
 ### Programming
 
